@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/* 
+See classes for solutions.
+*/
 
 namespace LeetCodeSolutions
 {
@@ -10,6 +8,7 @@ namespace LeetCodeSolutions
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
