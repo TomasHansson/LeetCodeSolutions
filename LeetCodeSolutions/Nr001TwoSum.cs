@@ -9,7 +9,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 namespace LeetCodeSolutions
 {
-    class TwoSum_001
+    class Nr001TwoSum
     {
         public int[] TwoSum(int[] nums, int target)
         {
