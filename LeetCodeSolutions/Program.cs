@@ -8,7 +8,7 @@ namespace LeetCodeSolutions
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
