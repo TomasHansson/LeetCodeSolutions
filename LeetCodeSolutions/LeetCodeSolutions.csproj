@@ -46,8 +46,11 @@
     <Compile Include="Nr002AddTwoNumbers.cs" />
     <Compile Include="Nr003LengthOfLongestSubstring.cs" />
     <Compile Include="Nr004FindMedianSortedArrays.cs" />
+    <Compile Include="Nr005LongestPalindromicSubstring.cs" />
     <Compile Include="Nr007ReverseInteger.cs" />
     <Compile Include="Nr008StringToInteger.cs" />
+    <Compile Include="Nr009PalindromeNumber.cs" />
+    <Compile Include="Nr011ContainerWithMostWater.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Nr001TwoSum.cs" />
