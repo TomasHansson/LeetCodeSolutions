@@ -51,6 +51,9 @@
     <Compile Include="Nr008StringToInteger.cs" />
     <Compile Include="Nr009PalindromeNumber.cs" />
     <Compile Include="Nr011ContainerWithMostWater.cs" />
+    <Compile Include="Nr012IntegerToRoman.cs" />
+    <Compile Include="Nr013RomanToInteger.cs" />
+    <Compile Include="Nr014LongestCommonPrefix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Nr001TwoSum.cs" />
