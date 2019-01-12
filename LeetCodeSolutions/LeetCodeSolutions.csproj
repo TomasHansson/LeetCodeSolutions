@@ -58,6 +58,7 @@
     <Compile Include="Nr021MergeTwoSortedLists.cs" />
     <Compile Include="Nr026RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Nr027RemoveElement.cs" />
+    <Compile Include="Nr34FindFirstAndLastPosition.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Nr001TwoSum.cs" />
