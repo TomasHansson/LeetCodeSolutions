@@ -9,7 +9,7 @@ If the target is not found in the array, return [-1, -1].
 
 namespace LeetCodeSolutions
 {
-    class Nr34FindFirstAndLastPosition
+    class Nr034FindFirstAndLastPosition
     {
         public int[] SearchRange(int[] nums, int target)
         {
