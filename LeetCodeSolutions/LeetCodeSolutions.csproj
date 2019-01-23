@@ -65,6 +65,9 @@
     <Compile Include="Nr335SelfCrossing.cs" />
     <Compile Include="Nr709ToLowerCase.cs" />
     <Compile Include="Nr771JewelsAndStones.cs" />
+    <Compile Include="Nr804UniqueMorseCodeWords.cs" />
+    <Compile Include="Nr832FlippingAnImage.cs" />
+    <Compile Include="Nr905SortArrayByParity.cs" />
     <Compile Include="Nr929UniqueEmailAddresses.cs" />
     <Compile Include="Nr938RangeSumOfBST.cs" />
     <Compile Include="Program.cs" />
