@@ -63,12 +63,15 @@
     <Compile Include="Nr083RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Nr088MergeSortedArray.cs" />
     <Compile Include="Nr335SelfCrossing.cs" />
+    <Compile Include="Nr561ArrayPartitionI.cs" />
     <Compile Include="Nr617MergeTwoBinaryTrees.cs" />
     <Compile Include="Nr657RobotReturnToOrigin.cs" />
     <Compile Include="Nr709ToLowerCase.cs" />
+    <Compile Include="Nr728SelfDividingNumbers.cs" />
     <Compile Include="Nr771JewelsAndStones.cs" />
     <Compile Include="Nr804UniqueMorseCodeWords.cs" />
     <Compile Include="Nr832FlippingAnImage.cs" />
+    <Compile Include="Nr852PeakIndexInAMountainArray.cs" />
     <Compile Include="Nr905SortArrayByParity.cs" />
     <Compile Include="Nr929UniqueEmailAddresses.cs" />
     <Compile Include="Nr938RangeSumOfBST.cs" />
